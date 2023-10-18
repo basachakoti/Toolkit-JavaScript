@@ -1,0 +1,23 @@
+{
+  "name": "toolkit-javascript",
+  "version": "1.0.0",
+  "description": "Contains important functions helpful in day to day activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basachakoti/Toolkit-JavaScript.git"
+  },
+  "keywords": [
+    "js",
+    "toolkit"
+  ],
+  "author": "Basavaprabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basachakoti/Toolkit-JavaScript/issues"
+  },
+  "homepage": "https://github.com/basachakoti/Toolkit-JavaScript#readme"
+}
